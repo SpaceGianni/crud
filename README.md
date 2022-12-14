@@ -19,6 +19,9 @@ Puedes descargar el código y correrlo con el comando :
     npm start
 
 Para eso, tienes que tener instalado [Node js](https://nodejs.org/en/).
+
+![api-image](https://drive.google.com/file/d/1Oddvz3T8tik3efIpYZegUkHEzJtyifWI/view?usp=share_link)
+
 > Written with [StackEdit](https://stackedit.io/).
 >
 >Aquí una breve demo de las operaciones 👉🏼
