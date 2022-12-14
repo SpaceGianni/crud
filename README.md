@@ -23,5 +23,5 @@ Puedes descargar el código y correrlo con el comando :
 Para eso, tienes que tener instalado [Node js](https://nodejs.org/en/).
 > Written with [StackEdit](https://stackedit.io/).
 >
->Aquí una breve demo de las operaciones 👇🏼
+>Aquí una breve demo de las operaciones 👉🏼
 >https://drive.google.com/file/d/1kf88YEf63u2ZUFGNJ0imr-poc2wUgGFC/view?usp=sharing
