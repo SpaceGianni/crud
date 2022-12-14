@@ -1,8 +1,6 @@
 ## Acerca del proyecto
 Crud api es una aplicación para que las personas conozcan, por medio de la interacción, las cuatro operaciones básicas que una aplicación o base de datos utiliza. 
 
-![crud api](https://drive.google.com/file/d/1Oddvz3T8tik3efIpYZegUkHEzJtyifWI/view?usp=share_link)
-
 
 ## Tecnologías
 
