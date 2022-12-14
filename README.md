@@ -1,6 +1,8 @@
 ## Acerca del proyecto
 Crud api es una aplicación para que las personas conozcan, por medio de la interacción, las cuatro operaciones básicas que una aplicación o base de datos utiliza. 
 
+Aquí una breve demo de las operaciones 👉🏼
+https://drive.google.com/file/d/1kf88YEf63u2ZUFGNJ0imr-poc2wUgGFC/view?usp=sharing
 
 ## Tecnologías
 
@@ -24,5 +26,4 @@ Para eso, tienes que tener instalado [Node js](https://nodejs.org/en/).
 
 > Written with [StackEdit](https://stackedit.io/).
 >
->Aquí una breve demo de las operaciones 👉🏼
->https://drive.google.com/file/d/1kf88YEf63u2ZUFGNJ0imr-poc2wUgGFC/view?usp=sharing
+
